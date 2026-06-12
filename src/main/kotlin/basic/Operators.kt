@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     val sum = 1 + 1
     val subs = 1 - 1

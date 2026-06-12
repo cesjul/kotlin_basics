@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     val str1:String = "This is"
     val str2:String = "a test"

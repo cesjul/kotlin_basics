@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     val string: String = "Learning Kotlin"
 

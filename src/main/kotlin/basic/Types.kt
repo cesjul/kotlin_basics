@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     val double: Double = 1.0
     val float: Float = 1.0F

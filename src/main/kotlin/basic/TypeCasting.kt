@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     val str: String = "1"
 
